@@ -1,0 +1,23 @@
+{
+  "name": "mcp-replay",
+  "version": "1.0.0",
+  "description": "Tool for logging and replaying mcp requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hypnotoadhq/mcp-replay.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hypnotoadhq/mcp-replay/issues"
+  },
+  "homepage": "https://github.com/hypnotoadhq/mcp-replay#readme",
+  "dependencies": {
+    "typescript": "^5.8.3"
+  }
+}

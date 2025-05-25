@@ -1,2 +1,2 @@
 # mcp-replay
-tool for logging and replaying mcp requests
+Tool for logging and replaying mcp requests
